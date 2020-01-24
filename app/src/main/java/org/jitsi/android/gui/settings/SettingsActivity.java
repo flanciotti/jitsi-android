@@ -31,7 +31,7 @@ import org.jitsi.android.*;
 import org.jitsi.android.gui.*;
 import org.jitsi.android.gui.settings.util.*;
 import org.jitsi.android.gui.util.*;
-import org.jitsi.android.util.java.awt.*;
+import java.awt.*;
 import org.jitsi.impl.neomedia.*;
 import org.jitsi.impl.neomedia.device.*;
 import org.jitsi.impl.neomedia.device.util.*;

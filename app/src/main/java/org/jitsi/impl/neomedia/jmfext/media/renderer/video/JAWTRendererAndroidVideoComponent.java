@@ -25,7 +25,7 @@ import javax.microedition.khronos.opengles.*;
 
 import net.java.sip.communicator.util.*;
 
-import org.jitsi.android.util.java.awt.*;
+import java.awt.*;
 import org.jitsi.service.neomedia.*;
 
 /**

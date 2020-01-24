@@ -26,7 +26,7 @@ import javax.media.format.*;
 import javax.media.protocol.*;
 
 import org.jitsi.android.*;
-import org.jitsi.android.util.java.awt.*;
+import java.awt.*;
 import net.java.sip.communicator.util.*;
 
 import org.jitsi.impl.neomedia.codec.*;

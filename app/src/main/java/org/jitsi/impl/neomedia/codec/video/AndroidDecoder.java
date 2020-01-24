@@ -22,7 +22,7 @@ import android.media.*;
 import android.os.*;
 import android.view.*;
 
-import org.jitsi.android.util.java.awt.*;
+import java.awt.*;
 import org.jitsi.impl.neomedia.codec.video.h264.*;
 import org.jitsi.impl.neomedia.device.util.*;
 import org.jitsi.impl.neomedia.format.*;

@@ -20,7 +20,7 @@ package org.jitsi.impl.neomedia.jmfext.media.renderer.video;
 import android.content.*;
 import android.view.*;
 
-import org.jitsi.android.util.java.awt.*;
+import java.awt.*;
 import org.jitsi.impl.neomedia.codec.video.*;
 import org.jitsi.impl.neomedia.jmfext.media.renderer.*;
 import org.jitsi.service.neomedia.*;

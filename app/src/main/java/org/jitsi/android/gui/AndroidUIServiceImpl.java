@@ -27,8 +27,8 @@ import net.java.sip.communicator.util.call.*;
 
 import org.jitsi.android.*;
 import org.jitsi.android.gui.chat.*;
-import org.jitsi.android.util.java.awt.*;
-import org.jitsi.android.util.java.awt.event.*;
+import java.awt.*;
+import java.awt.event.*;
 
 import java.util.*;
 

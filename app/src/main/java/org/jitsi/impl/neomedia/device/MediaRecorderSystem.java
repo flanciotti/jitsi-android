@@ -17,6 +17,7 @@
  */
 package org.jitsi.impl.neomedia.device;
 
+import java.awt.Dimension;
 import java.util.*;
 import java.util.List;
 
@@ -29,7 +30,7 @@ import net.java.sip.communicator.util.*;
 
 import org.jitsi.*;
 import org.jitsi.android.*;
-import org.jitsi.android.util.java.awt.*;
+import java.awt.*;
 import org.jitsi.impl.neomedia.codec.video.h264.*;
 import org.jitsi.impl.neomedia.device.util.*;
 import org.jitsi.impl.neomedia.format.*;

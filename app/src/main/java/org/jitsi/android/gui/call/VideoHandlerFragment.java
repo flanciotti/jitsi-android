@@ -33,7 +33,7 @@ import net.java.sip.communicator.util.call.*;
 import org.jitsi.*;
 import org.jitsi.android.gui.controller.*;
 import org.jitsi.android.gui.util.*;
-import org.jitsi.android.util.java.awt.*;
+import java.awt.*;
 import org.jitsi.impl.neomedia.codec.video.*;
 import org.jitsi.impl.neomedia.device.util.*;
 import org.jitsi.service.neomedia.*;

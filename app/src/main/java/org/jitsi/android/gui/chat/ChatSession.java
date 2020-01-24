@@ -28,9 +28,9 @@ import net.java.sip.communicator.service.protocol.event.*;
 
 import org.jitsi.android.gui.*;
 
-import org.jitsi.android.util.java.awt.event.*;
-import org.jitsi.android.util.javax.swing.event.*;
-import org.jitsi.android.util.javax.swing.text.*;
+import java.awt.event.*;
+import javax.swing.event.*;
+import javax.swing.text.*;
 import org.jitsi.service.resources.*;
 import org.jitsi.util.*;
 

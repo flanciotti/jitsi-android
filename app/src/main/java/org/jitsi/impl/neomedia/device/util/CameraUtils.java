@@ -21,7 +21,7 @@ import android.graphics.*;
 import android.hardware.Camera;
 import android.view.*;
 
-import org.jitsi.android.util.java.awt.*;
+import java.awt.*;
 
 import javax.media.*;
 import java.io.*;

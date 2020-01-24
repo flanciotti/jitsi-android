@@ -24,7 +24,7 @@ import android.view.*;
 
 import net.java.sip.communicator.util.*;
 
-import org.jitsi.android.util.java.awt.*;
+import java.awt.*;
 import org.jitsi.impl.neomedia.codec.*;
 import org.jitsi.service.neomedia.codec.*;
 

@@ -22,7 +22,7 @@ import android.hardware.Camera;
 
 import net.java.sip.communicator.util.*;
 
-import org.jitsi.android.util.java.awt.*;
+import java.awt.*;
 import org.jitsi.impl.neomedia.device.util.*;
 import org.jitsi.impl.neomedia.jmfext.media.protocol.*;
 
